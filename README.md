@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Saud Abbasi from Pakistan<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Gen AI<br>- ⚡ In my free time I work on my projects</p>
+<p align="left">I'm Saud Abbasi from Pakistan<br><br>- 🔭 I’m a Full-stack Developer<br>- 📚 I'm currently learning Gen AI<br>- ⚡ In my free time I work on my projects <br> 💼 Looking for Internship </p>
 
 ###
 
